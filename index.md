@@ -15,7 +15,7 @@ seo:
 
 {{ site.staffersnobio }}
 
-| 👋 <span style='color:green'><b>Welcome to the Spring 2022 offering of DSC 90!</b></span> <br>Before class starts on Monday 3/28, make sure to read the [syllabus](../syllabus) and log into our course's [Slack](https://join.slack.com/t/dsc90spring2022/shared_invite/zt-1687mwnrk-PStbFjF23XjAaK1ZQXoJOw) page. See you on Monday! |
+| 👋 <span style='color:green'><b>Welcome to the Spring 2022 offering of DSC 90!</b></span> <br>Before class starts on Monday 3/28, make sure to read the [syllabus](syllabus) and log into our course's [Slack](https://join.slack.com/t/dsc90spring2022/shared_invite/zt-1687mwnrk-PStbFjF23XjAaK1ZQXoJOw) page. See you on Monday! |
 
 [Zoom Link](https://ucsd.zoom.us/my/rampure){: .btn .btn-blue }
 
