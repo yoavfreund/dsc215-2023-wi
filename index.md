@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Home 🏠
 nav_exclude: false
 nav_order: 1
 seo:
@@ -23,7 +23,7 @@ Click on a link below to go to the page for that week.
 
 | # | Date | Topics | Assignment |
 | --- | --- | --- | --- |
-| 1 | 3/28 | **[Introduction, Calculus](../resources/weeks/week01)**  | HW 1 (due 4/3) |
+| 1 | 3/28 | **[Introduction, Calculus](resources/weeks/week01)**  | HW 1 (due 4/3) |
 | 2 | 4/4 | Calculus, Aggregation | HW 2 (due 4/10) |
 | 3 | 4/11 | Aggregation and Least Squares | HW 3 (due 4/17) |
 | 4 | 4/18 | Least Squares, Regression, and Correlation | HW 4 (due 4/24) |
