@@ -1,4 +1,4 @@
-# dsc90-2022-wi
+# dsc90-2022-sp
 
 This branch contains the source code for the course website.
 
