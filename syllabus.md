@@ -52,11 +52,11 @@ Office hours will also be held in a hybrid format, meaning that you can attend t
 
 ## Technology 💻
 
-In addition to the course website, there are two other sites you'll need to access regularly; email the instructor if you haven't been added to them.
+In addition to the course website, there are two other sites you'll need to access regularly. Invite links/codes can be found below.
 - [Slack](https://join.slack.com/t/dsc90spring2022/shared_invite/zt-1687mwnrk-PStbFjF23XjAaK1ZQXoJOw): for discussion of lecture content and homework problems.
     - By using Slack over Campuswire or Piazza, we hope to foster a more close-knit environment between the instructor and the students in the course.
     - You should download the Slack app on your computer and on your phone and turn on notifications, as that's where all announcements for the course will be made.
-- [Gradescope](https://www.gradescope.com/courses/379139): for submitting homeworks.
+- [Gradescope](https://www.gradescope.com/courses/379139): for submitting homeworks. Use the entry code 3YEENX if you weren't already added.
 
 We will not be using Canvas at all.
 
