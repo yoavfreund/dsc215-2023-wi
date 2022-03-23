@@ -1,0 +1,308 @@
+{"0": {
+    "doc": "Home",
+    "title": "Seminar: History of Data Science 📚",
+    "content": "DSC 90, Spring 2022 at UC San Diego . Suraj Rampure he/him . rampure@ucsd.edu . Class: Mondays, 6-7:30PM, WLH 2209 or Zoom . Office Hours: Fridays, 12-1PM, Price Center Starbucks Patio or Zoom . | 👋 Welcome to the Spring 2022 offering of DSC 90! Before class starts on Monday 3/28, make sure to read the syllabus and log into our course’s Slack page. See you on Monday! | . Zoom Link . Click on a link below to go to the page for that week. | # | Date | Topics | Assignment | . | 1 | 3/28 | Introduction, Calculus | HW 1 (due 4/3) | . | 2 | 4/4 | Calculus, Aggregation | HW 2 (due 4/10) | . | 3 | 4/11 | Aggregation and Least Squares | HW 3 (due 4/17) | . | 4 | 4/18 | Least Squares, Regression, and Correlation | HW 4 (due 4/24) | . | 5 | 4/25 | Probability | HW 5 (due 5/1) | . | 6 | 5/2 | Visualization | HW 6 (due 5/8) | . | 7 | 5/9 | Computation | HW 7 (due 5/15) | . | 8 | 5/16 | Computation, Machine Learning | HW 8 (due 5/22) | . | 9 | 5/23 | Data Science, Conclusion | HW 9 (due 5/29) | . | - | 5/30 | N/A (Memorial Day) |   | . ",
+    "url": "http://localhost:4000/#seminar-history-of-data-science-",
+    "relUrl": "/#seminar-history-of-data-science-"
+  },"1": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"2": {
+    "doc": "Syllabus",
+    "title": "Syllabus 📖",
+    "content": " ",
+    "url": "http://localhost:4000/syllabus/#syllabus-",
+    "relUrl": "/syllabus/#syllabus-"
+  },"3": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | Course Description 🍎 | Logistics 👨‍🏫 . | Class Meetings | Readings | Homeworks | Office Hours | . | Technology 💻 | Grading 🧪 | Acknowledgements 🙏🏼 | . ",
+    "url": "http://localhost:4000/syllabus/#table-of-contents",
+    "relUrl": "/syllabus/#table-of-contents"
+  },"4": {
+    "doc": "Syllabus",
+    "title": "Course Description 🍎",
+    "content": "While the terms “data analysis” and “data science” were only coined in the late 1900s, the foundations of data science were laid centuries, even millenia, ago. In this course, students will study the origins of some of the key ideas in the field, including calculus, probability, linear regression, and visualization. Students will learn more about early contributors – from Newton to Galton to Playfair to Lovelace – and their motivations. In doing so, students develop an appreciation for methods that are now ubiquitous in the field of data science. We will only assume that students have taken DSC 10, and are familiar with basic derivatives and integrals (though this is not a firm requirement). Aside from that, we will make no assumptions regarding your background, and will introduce technical concepts at an introductory level when necessary. ",
+    "url": "http://localhost:4000/syllabus/#course-description-",
+    "relUrl": "/syllabus/#course-description-"
+  },"5": {
+    "doc": "Syllabus",
+    "title": "Logistics 👨‍🏫",
+    "content": "Class Meetings . This course will meet once a week on Mondays. The official schedule states that this course is from 6-8:50PM on Mondays, however lecture will only be from 6-7:30PM. The instructor will be available for questions after lecture as well as later in the week for office hours; see below for more details. Class meetings will be in-person in Warren Lecture Hall 2209 📍. If you are unable to attend in-person, you may attend via Zoom using the link posted on the course website. We encourage you to attend in-person whenever possible as there will be many opportunities for discussion during class. Lectures will always be recorded and posted afterwards. Readings . There is no “textbook” for this course. We will link readings and videos from a variety of sources in the webpage for a given lecture. Students are expected to complete all of the readings provided in a given week; much of the insight in this class will come from reading (and subsequently, discussing). Homeworks . Weekly homeworks in this course are designed to facilitate engagement with the material. They will consist of a mix of reading reflection problems and technical problems, and will align closely with the readings. Homeworks will be linked at the bottom of the corresponding lecture page, and will typically be due on Sundays at 11:59PM to Gradescope. No late submissions are allowed. Office Hours . The instructor will also hold office hours. The exact time for these office hours can be found on the course homepage. Office hours will also be held in a hybrid format, meaning that you can attend them either in-person or via Zoom. If you’d like to attend in-person, meet the instructor at the patio outside the Starbucks in the Price Center 📍 (map). ",
+    "url": "http://localhost:4000/syllabus/#logistics-",
+    "relUrl": "/syllabus/#logistics-"
+  },"6": {
+    "doc": "Syllabus",
+    "title": "Technology 💻",
+    "content": "In addition to the course website, there are two other sites you’ll need to access regularly; email the instructor if you haven’t been added to them. | Slack: for discussion of lecture content and homework problems. | By using Slack over Campuswire or Piazza, we hope to foster a more close-knit environment between the instructor and the students in the course. | You should download the Slack app on your computer and on your phone and turn on notifications, as that’s where all announcements for the course will be made. | . | Gradescope: for submitting homeworks. | . We will not be using Canvas at all. ",
+    "url": "http://localhost:4000/syllabus/#technology-",
+    "relUrl": "/syllabus/#technology-"
+  },"7": {
+    "doc": "Syllabus",
+    "title": "Grading 🧪",
+    "content": "This course is offered for 2 units, and is graded P/NP. In order to earn a P, you must: . | Attend and participate in at least 8/9 class sessions. (Let the instructor know in advance if you can’t make a particular class.) | Complete at least 8/9 homework assignments satisfactorily. | . In the event you aren’t able to meet these requirements, there may be a “make-up” assignment, but you should not rely on it. ",
+    "url": "http://localhost:4000/syllabus/#grading-",
+    "relUrl": "/syllabus/#grading-"
+  },"8": {
+    "doc": "Syllabus",
+    "title": "Acknowledgements 🙏🏼",
+    "content": "Many readings and topics are borrowed from Rohan Alexander’s History of Statistics and Data Sciences course at the University of Toronto. ",
+    "url": "http://localhost:4000/syllabus/#acknowledgements-",
+    "relUrl": "/syllabus/#acknowledgements-"
+  },"9": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "http://localhost:4000/syllabus/",
+    "relUrl": "/syllabus/"
+  },"10": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Week 1 – Introduction, Calculus",
+    "content": "Welcome to the first lecture and week of DSC 90 this quarter! Each week of DSC 90 will have a webpage, like this one, that contains links to lecture slides, recordings, and required readings, and also contains that week’s homework assignment. ",
+    "url": "http://localhost:4000/resources/weeks/week01/#week-1--introduction-calculus",
+    "relUrl": "/resources/weeks/week01/#week-1--introduction-calculus"
+  },"11": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Lecture (March 28th) 👨‍🏫",
+    "content": ". | blank slides 😶 | annotated slides 😊 | code 💻 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/weeks/week01/#lecture-march-28th-",
+    "relUrl": "/resources/weeks/week01/#lecture-march-28th-"
+  },"12": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Readings 📖",
+    "content": "Required: . | Donoho, 50 years of Data Science, Pages 745-749 | Neumann, History of Pi, Ch. 1 | Britannica, Pythagoreanism (stop at “History of Pythagoreanism”) | YouTube: The History of Calculus - A Short Documentary | . Optional: . | Pythagorean tuning and Pythagorean intervals: interesting if you have a background in music | YouTube: Euclid’s Elements Book 1: Proposition 47, The Pythagorean Theorem: if you’d like to see Euclid’s proof of the Pythagorean theorem | YouTube: What is the Archimedes’ Principle? Memorize: recommended if you’re unfamiliar with Archimedes’ principle | . ",
+    "url": "http://localhost:4000/resources/weeks/week01/#readings-",
+    "relUrl": "/resources/weeks/week01/#readings-"
+  },"13": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Homework 1 (due Sunday, April 3rd at 11:59PM) 📝",
+    "content": "Welcome to your first DSC 90 homework! Homeworks in DSC 90 are designed to have you engage with the week’s content. They will rely on you having completed the readings. Homeworks in DSC 90 are distributed via Jupyter Notebook. They contain a mix of reflection, mathematical, and programming questions. You will always submit your homework as a PDF, not a Jupyter Notebook. The homework notebook will specify what you need to include in your PDF writeup. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Slack if you need guidance! . The Homework 1 notebook will be linked here by noon on Tuesday, March 29th. ",
+    "url": "http://localhost:4000/resources/weeks/week01/#homework-1-due-sunday-april-3rd-at-1159pm-",
+    "relUrl": "/resources/weeks/week01/#homework-1-due-sunday-april-3rd-at-1159pm-"
+  },"14": {
+    "doc": "Week 1 – Introduction, Calculus",
+    "title": "Week 1 – Introduction, Calculus",
+    "content": " ",
+    "url": "http://localhost:4000/resources/weeks/week01/",
+    "relUrl": "/resources/weeks/week01/"
+  },"15": {
+    "doc": "Week 2 – Calculus, Aggregation",
+    "title": "Week 2 – Calculus, Aggregation",
+    "content": ". ",
+    "url": "http://localhost:4000/resources/old/week02/#week-2--calculus-aggregation",
+    "relUrl": "/resources/old/week02/#week-2--calculus-aggregation"
+  },"16": {
+    "doc": "Week 2 – Calculus, Aggregation",
+    "title": "Lecture (January 10th) 👨‍🏫",
+    "content": ". | blank slides 😶 | annotated slides 😊 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/old/week02/#lecture-january-10th-",
+    "relUrl": "/resources/old/week02/#lecture-january-10th-"
+  },"17": {
+    "doc": "Week 2 – Calculus, Aggregation",
+    "title": "Readings 📖",
+    "content": "Required: . | Wikipedia, Quadrature of the Parabola | YouTube: Visual Proof: 1/4 + 1/16 + 1/64 + … - Sum of Infinite Series | YouTube: Intro to Data Science: Historical Context | Staples, Fermat’s technique of finding areas under curves | O’Connor and Robertson, A history of the calculus | Raper, The shock of the mean | . Optional: . | Monks, Fermat’s Method for Finding Maxima and Minima: recommended supplement to our treatment of Fermat’s adequality | Williams, Beginnings of the Calculus: highly recommended lecture slides if you’re interested in learning more about the development of calculus during the Scientific Revolution | Allain, Planetary Motion Smackdown: shows how Kepler’s laws and Newton’s laws are related | Levenson, The Truth About Isaac Newton’s Productive Plague: interesting perspective, but not all that related to course material | Keats, Radical insights from The Seven Pillars of Statistical Wisdom: similar to “The shock of the mean”, but more brief | . ",
+    "url": "http://localhost:4000/resources/old/week02/#readings-",
+    "relUrl": "/resources/old/week02/#readings-"
+  },"18": {
+    "doc": "Week 2 – Calculus, Aggregation",
+    "title": "Homework 2 (due Friday, January 21st at 11:59PM) (solutions) 📝",
+    "content": "Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . Question 1 . Below in blue is the parabola \\(y = x^2\\), and in red is the line \\(y = 2x + 8\\). (a) Without using integration, determine the area between the given line and parabola. This will involve a few steps. First, you’ll need to find the third point on the triangle that Archimedes specified in Quadrature of the Parabola. Some guiding questions: . | What is the slope of the red line? | What is the slope of the tangent line to the parabola at any given point on the parabola? (What is the derivative of the parabola?) | At what point on the parabola is the slope of the tangent line equal to the slope of the red line? | . Once you’ve identified the third point, you can use this online calculator to find the area of that triangle (unless you’d rather do it yourself for practice). Then, you should be able to use a result from class. Show all of your steps, and remember to ask for help if you need it. (b) If you’re familiar with integration, compute the area between the given line and parabola using integration, and show that your answer is the same as your answer in part (a). (Note: If you know how to take an integral, you are expected to do this question.) . Question 2 . Consider the function . \\[f(x) = x(48 - x^2)\\] (a) Using Fermat’s method of adequality, determine the value of \\(x\\) that maximizes \\(f(x)\\). Is this a local or global maximum? Show your work. (b) Using Fermat’s method of adequality, determine the slope of the tangent line to \\(f(x)\\) at \\(x = 1\\). Verify that your answer is correct by finding \\(f'(x)\\) and evaluating \\(f'(1)\\). Show your work. (c) Repeat part (b), but at \\(x = 0\\). What issue do you run into? . Question 3 . Show that Fermat’s method for finding the slope of the tangent line is equivalent to . \\[\\text{slope} = \\frac{f(x+e) - f(x)}{e}\\] Does the quotient on the right look familiar – if so, what does it resemble? . Hopefully, by answering this question, it is slightly more clear why Fermat’s method of adequality involves dividing by \\(e\\) and then setting \\(e\\) to 0. Question 4 . One aggregation strategy that was used centuries ago involved picking the number halfway between the smallest and largest numbers in a dataset. In today’s terminology, we’d call this number the “midrange”. \\[\\text{Midrange} = \\frac{\\text{Max}(x) + \\text{Min}(x)}{2}\\] For each of the following conditions, specify a set of 5 unique numbers that satisfies the given condition. In each case, compute the midrange and mean and show that the condition holds. Afterwards, give a one sentence answer to the question, “for what kinds of datasets is the midrange close to the mean?” . (a) Midrange = mean . (b) Midrange &gt; mean . (c) Midrange &lt; mean . ",
+    "url": "http://localhost:4000/resources/old/week02/#homework-2-due-friday-january-21st-at-1159pm-solutions-",
+    "relUrl": "/resources/old/week02/#homework-2-due-friday-january-21st-at-1159pm-solutions-"
+  },"19": {
+    "doc": "Week 2 – Calculus, Aggregation",
+    "title": "Week 2 – Calculus, Aggregation",
+    "content": " ",
+    "url": "http://localhost:4000/resources/old/week02/",
+    "relUrl": "/resources/old/week02/"
+  },"20": {
+    "doc": "Week 3 – Aggregation and Least Squares",
+    "title": "Week 3 – Aggregation and Least Squares",
+    "content": ". ",
+    "url": "http://localhost:4000/resources/old/week03/#week-3--aggregation-and-least-squares",
+    "relUrl": "/resources/old/week03/#week-3--aggregation-and-least-squares"
+  },"21": {
+    "doc": "Week 3 – Aggregation and Least Squares",
+    "title": "Lecture (January 24th) 👨‍🏫",
+    "content": ". | blank slides 😶 | annotated slides 😊 | code 💻 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/old/week03/#lecture-january-24th-",
+    "relUrl": "/resources/old/week03/#lecture-january-24th-"
+  },"22": {
+    "doc": "Week 3 – Aggregation and Least Squares",
+    "title": "Readings 📖",
+    "content": "Required: . | Kopf, The Discovery of Statistical Regression | At least one of the following 3: . | NCSU, Right Ascension | Richmond, A Review of Coordinates | YouTube: Right Ascension and Declination, explained. | . | UCAR, Tycho Brahe’s Observations and Instruments | Farebrother, Boscovich, Rogerius Josephus (don’t spend too long trying to understand the math if it is unfamiliar, but do read it) | . ",
+    "url": "http://localhost:4000/resources/old/week03/#readings-",
+    "relUrl": "/resources/old/week03/#readings-"
+  },"23": {
+    "doc": "Week 3 – Aggregation and Least Squares",
+    "title": "Homework 3 (due Sunday, January 30th at 11:59PM) (solutions) 📝",
+    "content": "Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . Question 1 . First, make sure that you’ve read The Discovery of Statistical Regression. (a) Who found the connection between least squares and probability? (Just the name will suffice.) . (b) You may notice the priority dispute between Legendre and Gauss for the discovery of least squares resembles an earlier priority dispute, regarding the creation of calculus. In both cases (least squares and calculus), one individual published their work first, while the other claimed to have known about the idea before it was first published. In both cases, who published their work first? (Just the names of both individuals will suffice.) . Question 2 . King Triton, UCSD’s mascot, has come up with a new way of measuring time. His new time format, called Triton Time, is well-suited to describing periods of time relative to the academic quarter, which is 10 weeks long. He defines the units of Triton Time as follows: . | 1 Triton Degree (TD) is equal to 10 weeks | 1 Triton Minute (TM) is equal to 1/10th of a TD | 1 Triton Second (TS) is equal to 1/7th of a TM | 1 Triton Nanosecond (TN) is equal to 1/48th of a TS | . Times in Triton Time are specified in ordered quadruplets, starting with a T. For example, \\(T(2, 1, 4, 3)\\) corresponds to 2 TD + 1 TM + 4 TS + 3 TN. a) Convert \\(T(4, 3, 2, 5)\\) to regular days, hours, and minutes (e.g. “\\(a\\) days, \\(b\\) hours, and \\(c\\) minutes”, where \\(a\\), \\(b\\), and \\(c\\) are whole numbers). b) Convert \\(79 + \\frac{7}{48}\\) days into Triton Time. That is, specify your answer as \\(T(a, b, c, d)\\), where \\(a\\), \\(b\\), \\(c\\), and \\(d\\) are whole numbers. Make sure to confirm your answer by converting it back into days. Hint: Look closely at the definitions of each of the four components of Triton Time – the denominators might seem familiar. c) Triton Time is not nearly as fine-grained as our regular method of measuring time. What is the level of precision of Triton Time? . For example, if your answer is “one minute”, you’re saying that it’s possible to pick two times that are exactly one regular minute apart and specify them both with different Triton Times, but it is not possible to do this with any amount of regular time less than one minute. Question 3 . This question is contained with a Jupyter Notebook, which is linked here. All of your answers (including screenshots of your code) should end up in your submitted PDF; you will not be submitting this notebook anywhere. ",
+    "url": "http://localhost:4000/resources/old/week03/#homework-3-due-sunday-january-30th-at-1159pm-solutions-",
+    "relUrl": "/resources/old/week03/#homework-3-due-sunday-january-30th-at-1159pm-solutions-"
+  },"24": {
+    "doc": "Week 3 – Aggregation and Least Squares",
+    "title": "Week 3 – Aggregation and Least Squares",
+    "content": " ",
+    "url": "http://localhost:4000/resources/old/week03/",
+    "relUrl": "/resources/old/week03/"
+  },"25": {
+    "doc": "Week 4 – Least Squares, Regression, and Correlation",
+    "title": "Week 4 – Least Squares, Regression, and Correlation",
+    "content": ". ",
+    "url": "http://localhost:4000/resources/old/week04/#week-4--least-squares-regression-and-correlation",
+    "relUrl": "/resources/old/week04/#week-4--least-squares-regression-and-correlation"
+  },"26": {
+    "doc": "Week 4 – Least Squares, Regression, and Correlation",
+    "title": "Lecture (January 31st) 👨‍🏫",
+    "content": ". | blank slides 😶 | annotated slides 😊 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/old/week04/#lecture-january-31st-",
+    "relUrl": "/resources/old/week04/#lecture-january-31st-"
+  },"27": {
+    "doc": "Week 4 – Least Squares, Regression, and Correlation",
+    "title": "Readings 📖",
+    "content": ". | Rose, How the Idea of a ‘Normal’ Person Got Invented | Clayton, How Eugenics Shaped Statistics | Sonabend, Statistics, Eugenics, and Me | Rosenfeld, The invention of correlation. | . Optional: . | YouTube: Least Squares as a Maximum Likelihood estimator (highly recommended) | MathIsFun, Quincrux Explained | Galton, Kinship and Correlation | Rehmeyer, Darwin: The reluctant mathematician | PSU, Maximum Likelihood Estimation | The Normal Share of Paupers | . ",
+    "url": "http://localhost:4000/resources/old/week04/#readings-",
+    "relUrl": "/resources/old/week04/#readings-"
+  },"28": {
+    "doc": "Week 4 – Least Squares, Regression, and Correlation",
+    "title": "Homework 4 (due Sunday, February 6th at 11:59PM) (solutions) 📝",
+    "content": "Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . Homework 4 will be finalized by Tuesday. Question 0 . The Data Science Student Representatives created a survey for you to voice your opinion about what you love in DSC 90, and how we can improve the class and the department! . Feel free to talk about the topics covered in this course, the quality of the lectures, homeworks, and readings, and anything else you feel is relevant and constructive. As you know, this is a brand-new class, and we’d really appreciate any constructive feedback. Please click here to complete the survey. If you aren’t able to access it, make sure you’re logged into your UCSD Google account. Question 1 . Karl Pearson, one of Galton’s disciples and collaborators, created a journal that is today known as the Annals of Human Genetics. | What was the journal originally known as? | What was the subtitle of the journal? What is the significance of that subtitle? | Why was the name of the journal eventually changed? | . Question 2 . This question is contained with a Jupyter Notebook, which is linked here. All of your answers (including screenshots of your code) should end up in your submitted PDF; you will not be submitting this notebook anywhere. Question 3 . This question introduces a bit of background that will be helpful in the coming week. Recall, in lecture we considered an example where we flipped a coin 10 times and saw the sequence HTTHTTTTTH. For an arbitrary bias \\(p\\), the probability of that sequence is \\(p^3 (1-p)^7\\). However, \\(p^3 (1-p)^7\\) is not the probability of seeing 3 heads and 7 tails. To compute that, we’d need to consider all of the different orders in which we could see 3 heads and 7 tails – for example, HHHTTTTTTT, HTHTHTTTTT, etc. Each of these orderings has the same probability, \\(p^3 (1-p)^7\\). So, \\(P(\\text{3 heads, 7 tails}) = (\\text{# of ways of flipping 3 heads and 7 tails}) \\cdot p^3 (1-p)^7\\). As you will learn in DSC 40A (if you haven’t already), the number of ways of flipping 3 heads and 7 tails is \\({10 \\choose 3}\\), pronounced “10 choose 3”. If you’re not familiar with this notation, watch this video and this video. The general probability distribution we’ve discussed here is called the binomial distribution, which determines the probability of seeing \\(k\\) successes in \\(n\\) trials of an experiment in which each trial succeeds with probability \\(p\\), independent of all other trials. It says that the probability of \\(k\\) successes is . \\[P(\\text{$k$ successes}) = {n \\choose k} p^k (1-p)^{n-k}\\] (Previously, \\(k = 3\\), \\(n = 10\\), and \\(p\\) was unknown.) . To make sure you’re comfortable with the idea, answer the following question: . Each time I call my grandma, she answers the phone with probability 0.6. I call her 5 times. What is more likely – her answering twice, or her answering four times? Find the probability of both events. Write out both answers symbolically, and then use a calculator to evaluate them as decimals. If you’d like to use Python to evaluate the result as a decimal, the function comb(n, k) in the Python package scipy.special calculates \\({n \\choose k}\\). ",
+    "url": "http://localhost:4000/resources/old/week04/#homework-4-due-sunday-february-6th-at-1159pm-solutions-",
+    "relUrl": "/resources/old/week04/#homework-4-due-sunday-february-6th-at-1159pm-solutions-"
+  },"29": {
+    "doc": "Week 4 – Least Squares, Regression, and Correlation",
+    "title": "Week 4 – Least Squares, Regression, and Correlation",
+    "content": " ",
+    "url": "http://localhost:4000/resources/old/week04/",
+    "relUrl": "/resources/old/week04/"
+  },"30": {
+    "doc": "Week 5 – Probability",
+    "title": "Week 5 – Probability",
+    "content": ". ",
+    "url": "http://localhost:4000/resources/old/week05/#week-5--probability",
+    "relUrl": "/resources/old/week05/#week-5--probability"
+  },"31": {
+    "doc": "Week 5 – Probability",
+    "title": "Lecture (February 7th) 👨‍🏫",
+    "content": ". | blank slides 😶 | annotated slides 😊 | code 💻 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/old/week05/#lecture-february-7th-",
+    "relUrl": "/resources/old/week05/#lecture-february-7th-"
+  },"32": {
+    "doc": "Week 5 – Probability",
+    "title": "Readings 📖",
+    "content": ". | Fermat and Pascal on Probability: skim, but read | Wikipedia, Lady tasting tea | Stahl, The Evolution of the Normal Distribution, Pages 105-106 | YouTube: Normal distribution’s probability density function derived in 5min | Rosenfeld, History of Probability (Part 3) - Jacob Bernoulli (1654-1705) – Law of Large Numbers | . Optional: . | Sheynin, Theory of Probability. A Historical Essay: very detailed, but contains lots of interesting tidbits | YouTube: Can You Solve The Problem That Inspired Probability Theory?: another explanation of the Problem of Points | Cherowitzo, The Problem of Points slides | YouTube: This DERIVATION of the BELL CURVE will SHOCK you!!!: another, much longer derivation of the normal distribution | YouTube: Integral of exp(-x^2): watch if you want to see a proof that \\(\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\), using techniques from Math 20C | . ",
+    "url": "http://localhost:4000/resources/old/week05/#readings-",
+    "relUrl": "/resources/old/week05/#readings-"
+  },"33": {
+    "doc": "Week 5 – Probability",
+    "title": "Homework 5 (due Sunday, February 13th at 11:59PM) (solutions) 📝",
+    "content": "Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . Question 1 . In class, we focused on development of the field of probability by Gauss, Fermat, Pascal, and Fisher. However, there were several other contributors to the field of probability. One prominent contributor was Jakob Bernoulli, whose name may sound familiar if you’ve heard of the Bernoulli probability distribution before in other contexts. Read History of Probability (Part 3) - Jacob Bernoulli (1654-1705) – Law of Large Numbers. Then, answer the following questions: . | In your words, what is the law of large numbers? | How did we use the law of large numbers in DSC 10, and how did we use it in Lecture 5? | . Question 2 . This question is contained with a Jupyter Notebook, which is linked here. All of your answers (including screenshots of your code) should end up in your submitted PDF; you will not be submitting this notebook anywhere. (Optional / Make Up) Question 3 . Note: This question is optional, though if you’ve missed a lecture or didn’t receive full credit on an earlier assignment, you can “make up” one of those things by completing this question. This question can be found in the same Jupyter Notebook as Question 2, linked above. ",
+    "url": "http://localhost:4000/resources/old/week05/#homework-5-due-sunday-february-13th-at-1159pm-solutions-",
+    "relUrl": "/resources/old/week05/#homework-5-due-sunday-february-13th-at-1159pm-solutions-"
+  },"34": {
+    "doc": "Week 5 – Probability",
+    "title": "Week 5 – Probability",
+    "content": " ",
+    "url": "http://localhost:4000/resources/old/week05/",
+    "relUrl": "/resources/old/week05/"
+  },"35": {
+    "doc": "Week 6 – Visualization",
+    "title": "Week 6 – Visualization",
+    "content": ". ",
+    "url": "http://localhost:4000/resources/old/week06/#week-6--visualization",
+    "relUrl": "/resources/old/week06/#week-6--visualization"
+  },"36": {
+    "doc": "Week 6 – Visualization",
+    "title": "Lecture (February 14th) ❤️",
+    "content": ". | blank slides 😶 | code 💻 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/old/week06/#lecture-february-14th-%EF%B8%8F",
+    "relUrl": "/resources/old/week06/#lecture-february-14th-️"
+  },"37": {
+    "doc": "Week 6 – Visualization",
+    "title": "Readings 📖",
+    "content": ". | YouTube: A Brief History of Data Visualization: watch at least the first 20 minutes | YouTube: Hans Rosling’s 200 Countries, 200 Years, 4 Minutes | History of Scatterplots: A Timeline | . Optional: . | Rosenfeld, Origins of graphs in statistics – William Playfair (1759-1823) | Friendly, The Golden Age of Statistical Graphics | . ",
+    "url": "http://localhost:4000/resources/old/week06/#readings-",
+    "relUrl": "/resources/old/week06/#readings-"
+  },"38": {
+    "doc": "Week 6 – Visualization",
+    "title": "Homework 6 (due Sunday, February 27th at 11:59PM) (solutions) 📝",
+    "content": "Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . The content of Homework 6 can be found in this Jupyter Notebook. Submission instructions for Homework 6 can be found below. ",
+    "url": "http://localhost:4000/resources/old/week06/#homework-6-due-sunday-february-27th-at-1159pm-solutions-",
+    "relUrl": "/resources/old/week06/#homework-6-due-sunday-february-27th-at-1159pm-solutions-"
+  },"39": {
+    "doc": "Week 6 – Visualization",
+    "title": "Submission Instructions",
+    "content": "You will submit your work as a website on GitHub Pages in which all 3 of your visualizations are embedded. Here’s what you need to do: . Step 1: Creating a GitHub Account and a Blank Website . | Create a GitHub account if you don’t already have one. | Create a new public repository (“repo”). Call it dsc90-wi22-hw06. Add a README.md that says “Homework 6 for History of Data Science, Winter 2022 @ UC San Diego.” | Enable GitHub Pages for your new repo. Follow these steps: . | From the main page of your repo, click “Settings” in the menu at the top. | Click “Pages” in the menu on the left (it should be under “Code and Automation”). | Under “Source”, change “None” to “main”. Click “Save”. | Under “Theme Chooser”, click “Choose a theme”. It will allow you to choose one of several themes; pick the one you like the most and click “Select theme”. If you end up not liking your choice, you can always come back to this menu and change the theme, so don’t worry. Note: If you are brought to a page that has you try and edit your file (it may say something like “Edit new file”), just click “Cancel”. | After you follow these steps, your site will be public. You will be shown its URL; it will be in the form &lt;your github username&gt;.github.io/dsc90-wi22-hw06. | . | . Step 2: Background . Note: This is not a tutorial on how to use Git and GitHub. If you have prior experience with GitHub, it is highly recommended that you clone your repo locally and edit the necessary files there. This has the added benefit of allowing you to preview your site locally (i.e. on your computer) before making any changes public; if you’re interested in following this route, check out these instructions. If you don’t clone your website’s repo locally, you can also edit the necessary files in your repo directly at github.com, though in the future you will want to avoid doing this. The README.md file is where all of the content for your website will live.md denotes Markdown, which is the markup language that Jupyter Notebooks use to format text cells. Under the hood, GitHub Pages uses a library called Jekyll to convert README.md to the standard HTML file format. The beauty of Markdown is that it allows us to format text and images with relatively lightweight syntax. Markdown also allows us to use regular HTML code, which is how we’ll embed your maps and plots in README.md. (There’s another file in your repo, called _config.yml – it serves to tell GitHub Pages which theme you chose along with other information. You don’t have to edit it, though you can.) . Your job is to now edit README.md so that it contains all three of your visualizations, along with a little bit of text (one sentence) describing each one. Step 3: Downloading and Embedding Visualizations . The first important step is downloading all 3 of your visualizations as .html files. We’ve defined a function, write_file, in your homework notebook that you’ll need along the way. Here’s how to use it: . To download folium maps as HTML (Question 1) . Suppose the variable name you assigned your map to was snow_map, and you want to save it to snow-map.html. You should then run . write_file('snow-map.html', snow_map._repr_html_()) . This will create a snow-map.html file in your DataHub that contains a stand-alone version of your map. Download this file to your computer and open it, and double-check that it renders the map you created before. Place this .html file in your website repo (either by placing it in the folder that you’ve cloned locally or by uploading it to your repo from GitHub’s website). To download plotly graphs as HTML (Question 2-3) . Suppose the variable name you assigned to your plotly plot was fig, and you want to save it to plotly-fig.html. You should then run . write_file('plotly-fig.html', fig.to_html()) . Do this for both of your plotly plots, download the resulting plots to your computer, double-check that they look correct, and also add them both to your website’s repo. To embed other .html files in your README.md . Now you should have 3 .html files in your repo. We will use the HTML &lt;iframe&gt; tag to embed all three of these within README.md. Let’s suppose I want to embed my map from Question 1, and it is saved in my repo as snow-map.html. In my README.md, I would write: . &lt;iframe src='../snow-map.html' width=800 height=600 frameBorder=0&gt;&lt;/iframe&gt; . | src specifies the path to the file. | At least for the folium map, width and height should reflect the width and height arguments you chose in your notebook. | frameBorder=0 removes a border from the map to make it look like it’s directly embedded in your website. | . Try and get this to work with just a single visualization first, before attempting to embed your other two visualizations. At this stage, you should commit and push your changes on GitHub. After a few minutes, your site should contain your embedded visualization! Once you see that it worked, add your other two visualizations. (You may not have set width and height when creating your plotly graphs – I’ve found that width=800 and height=600 work well as arguments in iframe.) . Step 4: Polishing README.md . At this point, your README.md might look something like this: . &lt;iframe src='../snow-map.html' width=800 height=600 frameBorder=0&gt;&lt;/iframe&gt; &lt;iframe src='../galton-scatter.html' width=800 height=600 frameBorder=0&gt;&lt;/iframe&gt; &lt;iframe src='../france-pop.html' width=800 height=600 frameBorder=0&gt;&lt;/iframe&gt; . Now, your job is to: . | Add a heading at the top of your website that contains the homework assignment name and your name . | For instance, on separate lines you may write # Homework 6 – History of Data Science and ## King Triton (triton@ucsd.edu) (but with your name and email) | . | Headings before each visualization specifying which question it belongs to . | For instance, before the Snow map you might write ## Question 1 | . | A one-sentence explanation of each visualization immediately above or below it | . This is the bare minimum that’s required: you can add other things to your site as well if you’d like. Tip: To space things out vertically, put &lt;br&gt; on a new line on its own. (This is the equivalent of hitting enter several times in a Word doc.) . Once you’re done, commit and push your changes again. Your site should reflect your changes within a few minutes. Step 5: Submitting . There are two final steps involved in submitting – you must follow both: . | Upload the Jupyter Notebook you used to create your visualizations to the Homework 6 assignment on Gradescope. | Post a link to your GitHub Pages site in this thread on Campuswire. | . ",
+    "url": "http://localhost:4000/resources/old/week06/#submission-instructions",
+    "relUrl": "/resources/old/week06/#submission-instructions"
+  },"40": {
+    "doc": "Week 6 – Visualization",
+    "title": "Week 6 – Visualization",
+    "content": " ",
+    "url": "http://localhost:4000/resources/old/week06/",
+    "relUrl": "/resources/old/week06/"
+  },"41": {
+    "doc": "Week 7 – Computation",
+    "title": "Week 7 – Computation",
+    "content": ". ",
+    "url": "http://localhost:4000/resources/old/week07/#week-7--computation",
+    "relUrl": "/resources/old/week07/#week-7--computation"
+  },"42": {
+    "doc": "Week 7 – Computation",
+    "title": "Lecture (February 28th)",
+    "content": ". | blank slides 😶 | annotated slides 😊 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/old/week07/#lecture-february-28th",
+    "relUrl": "/resources/old/week07/#lecture-february-28th"
+  },"43": {
+    "doc": "Week 7 – Computation",
+    "title": "Readings 📖",
+    "content": ". | Shallit, A Very Brief History of Computer Science | Wolfram, George Boole: A 200-Year View | Computer History Museum, The Engines | YouTube: Log Tables - Numberphile | Two-Bit History, What Did Ada Lovelace’s Program Actually Do? | Ko, Critical CS Education History | . Optional: . | Newell et. al., What is Computer Science? | Dijkstra, Why numbering should start at zero | Copeland, Alan Turing: The codebreaker who saved “millions of lives” | YouTube: Babbage’s Difference Engine No. 2, Part 1: The method of finite differences: if you’d like a refresher on the method of finite differences (especially for Question 1 on the homework) | Computer Hope, When was the first computer invented?: good to skim if you’d like a comprehensive overview of the development of computers | Leibniz, Explanation of Binary Arithmetic: translation of Leibniz’ original essay on binary | . ",
+    "url": "http://localhost:4000/resources/old/week07/#readings-",
+    "relUrl": "/resources/old/week07/#readings-"
+  },"44": {
+    "doc": "Week 7 – Computation",
+    "title": "Homework 7 (due Monday, March 7th at 11:59PM) (solutions) 📝",
+    "content": "Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . The content of Homework 7 can be found in this Jupyter Notebook. You will submit your work as a PDF to Gradescope; the notebook specifies what to include in your PDF. ",
+    "url": "http://localhost:4000/resources/old/week07/#homework-7-due-monday-march-7th-at-1159pm-solutions-",
+    "relUrl": "/resources/old/week07/#homework-7-due-monday-march-7th-at-1159pm-solutions-"
+  },"45": {
+    "doc": "Week 7 – Computation",
+    "title": "Week 7 – Computation",
+    "content": " ",
+    "url": "http://localhost:4000/resources/old/week07/",
+    "relUrl": "/resources/old/week07/"
+  },"46": {
+    "doc": "Week 8 – Data Science, Conclusion",
+    "title": "Week 8 – Data Science, Conclusion",
+    "content": ". ",
+    "url": "http://localhost:4000/resources/old/week08/#week-8--data-science-conclusion",
+    "relUrl": "/resources/old/week08/#week-8--data-science-conclusion"
+  },"47": {
+    "doc": "Week 8 – Data Science, Conclusion",
+    "title": "Lecture (March 7th)",
+    "content": ". | blank slides 😶 | annotated slides 😊 | code 💻 | recording 🎥 | . ",
+    "url": "http://localhost:4000/resources/old/week08/#lecture-march-7th",
+    "relUrl": "/resources/old/week08/#lecture-march-7th"
+  },"48": {
+    "doc": "Week 8 – Data Science, Conclusion",
+    "title": "Readings 📖",
+    "content": ". | Christensen, The Billion Dollar Eigenvector | YouTube: The Story of Python, by Its Creator, Guido van Rossum | Peréz, The IPython notebook: a historical retrospective | A Memo to the American People from U.S. Chief Data Scientist Dr. DJ Patil | Wu, Statistics = Data Science? (download) | Cleveland, Data Science: An Action Plan for Expanding the Technical Areas of the Field of Statistics | . Optional: . | Brin and Page, The Anatomy of a Large-Scale Hypertextual Web Search Engine: the original paper behind Google and PageRank | Van Rossum, Computer Programming for Everybody | PSF, Sunsetting Python 2 | YouTube: When Jupyter Becomes Pervasive at a University? Fernando Perez (UC Berkeley) | . ",
+    "url": "http://localhost:4000/resources/old/week08/#readings-",
+    "relUrl": "/resources/old/week08/#readings-"
+  },"49": {
+    "doc": "Week 8 – Data Science, Conclusion",
+    "title": "Homework 8 (due Monday, March 14th at 11:59PM) 📝",
+    "content": "Submit your answers as a PDF to Gradescope by the due date for full credit. We encourage you to discuss the readings and questions with others in the course, but all work must be your own. Remember to use Campuswire if you need guidance! . The content of Homework 8 can be found in this Jupyter Notebook. You will submit your work as a PDF to Gradescope; the notebook specifies what to include in your PDF. CAPEs + Additional Survey . To get your feedback on how the course went, I’d appreciate it if you could fill out both: . | CAPEs | The End of Quarter Survey | . Both are optional and anonymous (though you can leave your name on the End of Quarter survey if you’d like). Your feedback is much appreciated! . ",
+    "url": "http://localhost:4000/resources/old/week08/#homework-8-due-monday-march-14th-at-1159pm-",
+    "relUrl": "/resources/old/week08/#homework-8-due-monday-march-14th-at-1159pm-"
+  },"50": {
+    "doc": "Week 8 – Data Science, Conclusion",
+    "title": "Week 8 – Data Science, Conclusion",
+    "content": " ",
+    "url": "http://localhost:4000/resources/old/week08/",
+    "relUrl": "/resources/old/week08/"
+  }
+}
