@@ -30,6 +30,8 @@ aux_links:
     - 'https://join.slack.com/t/dsc90spring2022/shared_invite/zt-1687mwnrk-PStbFjF23XjAaK1ZQXoJOw'
   Gradescope:
     - 'https://www.gradescope.com/courses/379139'
+  DataHub:
+    - 'https://datahub.ucsd.edu'
 footer_content:
 
 # Collections for website data

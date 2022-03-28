@@ -8,16 +8,16 @@ nav_exclude: true
 
 # Week 1 – Introduction, Calculus
 
-Welcome to the first lecture and week of DSC 90 this quarter! Each week of DSC 90 will have a webpage, like this one, that contains links to lecture slides, recordings, and required readings, and also contains that week's homework assignment.
+Welcome to the first lecture and week of DSC 90 this quarter! Each week of DSC 90 will have a webpage, like this one, that contains links to lecture slides, recordings, and required readings, and also contains a link to that week's homework assignment.
 
 ---
 
 
 ## Lecture (March 28th) 👨‍🏫
 
-- blank slides 😶
+- [blank slides 😶](../../slides/lec01.pdf)
 - annotated slides 😊
-- code 💻
+- [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=lecture/lec01/lec01.ipynb)
 - recording 🎥
 
 ---
@@ -39,12 +39,4 @@ Optional:
 
 ## Homework 1 (due Sunday, April 3rd at 11:59PM) 📝
 
-**Welcome to your first DSC 90 homework!** Homeworks in DSC 90 are designed to have you engage with the week's content. They will rely on you having completed the readings.
-
-Homeworks in DSC 90 are distributed via Jupyter Notebook. They contain a mix of reflection, mathematical, and programming questions. You will always submit your homework as a **PDF**, not a Jupyter Notebook. The homework notebook will specify what you need to include in your PDF writeup.
-
-We encourage you to discuss the readings and questions with others in the course, but all work must be your own. **Remember to use Slack if you need guidance!**
-
-<br>
-
-The Homework 1 notebook will be linked here by noon on Tuesday, March 29th.
+Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw01/hw01-student.ipynb) to access the homework on DataHub.
