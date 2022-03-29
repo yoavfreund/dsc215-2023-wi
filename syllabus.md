@@ -46,7 +46,7 @@ Weekly homeworks in this course are designed to facilitate engagement with the m
 
 The instructor will also hold office hours. The exact time for these office hours can be found on the course homepage.
 
-Office hours will also be held in a hybrid format, meaning that you can attend them either in-person or via Zoom. In-person office hours are held on the second floor of the east wing of the **San Diego Supercomputer Center 📍 ([map](https://map.concept3d.com/?id=1005#!m/165141))**. Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You will need a code to enter the building; the code is TBD. Make sure to hit the # key after typing in the code.
+Office hours will also be held in a hybrid format, meaning that you can attend them either in-person or via Zoom. In-person office hours are held on the second floor of the east wing of the **San Diego Supercomputer Center 📍 ([map](https://map.concept3d.com/?id=1005#!m/165141))**. Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You will need a code to enter the building; the code is pinned in the `#general` channel of our course Slack. Make sure to hit the # key after typing in the code.
 
 ---
 
