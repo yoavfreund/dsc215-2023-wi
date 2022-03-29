@@ -18,7 +18,7 @@ Welcome to the first lecture and week of DSC 90 this quarter! Each week of DSC 9
 - [blank slides 😶](../../slides/lec01.pdf)
 - [annotated slides 😊](../../slides/lec01-annotated.pdf)
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=lecture/lec01/lec01.ipynb)
-- recording 🎥
+- [recording 🎥](https://www.youtube.com/watch?v=AnVIjHUbJoA)
 
 ---
 
