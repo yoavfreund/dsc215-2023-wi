@@ -13,7 +13,7 @@ Welcome to the first lecture and week of DSC 90 this quarter! Each week of DSC 9
 ---
 
 
-## Lecture (March 28th) 👨‍🏫
+## Lecture (Monday, March 28th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec01.pdf)
 - [annotated slides 😊](../../slides/lec01-annotated.pdf)
