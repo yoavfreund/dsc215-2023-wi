@@ -14,8 +14,8 @@ nav_exclude: true
 ## Lecture (Monday, April 4th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec02.pdf)
-- annotated slides 😊
-- recording 🎥
+- [annotated slides 😊](../../slides/lec02-annotated.pdf)
+- [recording 🎥](https://youtu.be/TgE95jdQOis)
 
 ---
 
