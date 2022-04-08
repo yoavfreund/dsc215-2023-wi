@@ -40,3 +40,5 @@ Optional:
 ## Homework 1 (due Sunday, April 3rd at 11:59PM) 📝
 
 Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw01/hw01-student.ipynb) to access the homework on DataHub.
+
+Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw01/hw01-solutions.ipynb) to access the solutions.
