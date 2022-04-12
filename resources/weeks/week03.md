@@ -13,9 +13,9 @@ nav_exclude: true
 ## Lecture (Monday, April 11th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec03.pdf)
-- annotated slides 😊
+- [annotated slides 😊](../../slides/lec03-annotated.pdf)
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=lecture/lec03/lec03.ipynb)
-- recording 🎥
+- [recording 🎥](https://youtu.be/52BoxNk0tpc)
 
 ---
 
