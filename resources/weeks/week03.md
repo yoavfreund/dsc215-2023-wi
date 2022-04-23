@@ -35,3 +35,5 @@ Required:
 ## Homework 3 (due Sunday, April 17th at 11:59PM) 📝
 
 Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw03/hw03-student.ipynb) to access the homework on DataHub.
+
+Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw03/hw03-solution.ipynb) to access the solutions.
