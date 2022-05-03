@@ -14,7 +14,7 @@ nav_exclude: true
 
 - [blank slides 😶](../../slides/lec06.pdf)
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=lecture/lec06/lec06.ipynb)
-- recording 🎥
+- [recording 🎥](https://youtu.be/CwQgz0ZE18g)
 
 ---
 
