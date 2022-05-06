@@ -19,6 +19,8 @@ seo:
 
 Click on a link below to go to the page for that week. 
 
+If you aren't able to access DataHub, you can [access all course materials on GitHub](https://github.com/dsc-courses/dsc90-2022-sp).
+
 | # | Date | Topics | Assignment |
 | --- | --- | --- | --- |
 | 1 | 3/28 | **[Introduction, Calculus](resources/weeks/week01)**  | [HW 1 (due 4/3)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw01/hw01-student.ipynb) |

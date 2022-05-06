@@ -39,3 +39,5 @@ Optional:
 ## Homework 5 (due Sunday, May 1st at 11:59PM) 📝
 
 Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw05/hw05-student.ipynb) to access the homework on DataHub.
+
+Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw05/hw05-solution.ipynb) to access the solutions.
