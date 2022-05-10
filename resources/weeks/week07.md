@@ -13,9 +13,9 @@ nav_exclude: true
 ## Lecture (Monday, May 9th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec07.pdf)
-- annotated slides 😊
+- [annotated slides 😊](../../slides/lec07-annotated.pdf)
 - [code (from Week 6) 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=lecture/lec06/lec06.ipynb)
-- recording 🎥
+- [recording 🎥](https://youtu.be/8ZRWmxUrpNY)
 
 ---
 
