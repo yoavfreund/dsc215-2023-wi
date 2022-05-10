@@ -26,6 +26,10 @@ nav_exclude: true
 - Wolfram, [George Boole: A 200-Year View](https://writings.stephenwolfram.com/2015/11/george-boole-a-200-year-view/)
 - Ko, [Critical CS Education History](https://criticallyconsciouscomputing.org/history)
 
+Relevant readings from Week 5:
+- Stahl, [The Evolution of the Normal Distribution](https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/stahl96.pdf), Pages 105-106
+- [YouTube: Normal distribution's probability density function derived in 5min](https://www.youtube.com/watch?v=ebewBjZmZTw)
+
 Optional:
 - Newell et. al., [What is Computer Science?](https://www.cs.cmu.edu/~choset/whatiscs.html)
 - Dijkstra, [Why numbering should start at zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
