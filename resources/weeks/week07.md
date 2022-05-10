@@ -40,6 +40,8 @@ Optional:
 
 ## Homework 7 (due Sunday, May 15th at 11:59PM)
 
-Homework 7 will be posted by tonight.
+There is no new "Homework 7." Instead, this week, you can make up **one** earlier homework that you didn't receive full credit on, whether that's because you submitted an incomplete homework or didn't submit a homework at all. We just ask that you do not look at the solutions while re-doing old homework problems. 
 
-<!-- Click [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw07/hw07-student.ipynb) to access the homework on DataHub. -->
+There is no Gradescope submission portal; instead, message Suraj on Slack with your updated/completed old homework.
+
+**Whether or not you need to make up an old homework, you should still complete the readings linked above.**
