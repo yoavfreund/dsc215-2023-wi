@@ -30,6 +30,6 @@ If you aren't able to access DataHub, you can [access all course materials on Gi
 | 5 | 4/25 | **[Probability](resources/weeks/week05)** | [HW 5 (due 5/1)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw05/hw05-student.ipynb) |
 | 6 | 5/2 | **[Visualization](resources/weeks/week06)** | [HW 6 (due 5/8)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw06/hw06-student.ipynb) |
 | 7 | 5/9 | **[Visualization, Randomness, and Computing](resources/weeks/week07)**  | HW 7 (due 5/15) |
-| 8 | 5/16 | Computation and Machine Learning | HW 8 (due 5/22) |
+| 8 | 5/16 | **[Computation](resources/weeks/week08)** | [HW 8 (due 5/22)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=homework/hw08/hw08-student.ipynb) |
 | 9 | 5/23 | Data Science, Conclusion | HW 9 (due 5/29) |
 | - | 5/30 | N/A (Memorial Day) | |
