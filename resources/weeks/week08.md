@@ -13,8 +13,8 @@ nav_exclude: true
 ## Lecture (Monday, May 16th) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec08.pdf)
-- annotated slides 😊
-- recording 🎥
+- [annotated slides 😊](../../slides/lec08-annotated.pdf)
+- [recording 🎥](https://youtu.be/Cn8J9bKjMdY)
 
 ---
 
