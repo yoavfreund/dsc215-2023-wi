@@ -13,9 +13,9 @@ nav_exclude: true
 ## Lecture (Monday, May 23rd) 👨‍🏫
 
 - [blank slides 😶](../../slides/lec09.pdf)
-- annotated slides 😊
+- [annotated slides 😊](../../slides/lec09-annotated.pdf)
 - [code 💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc90-2022-sp&subPath=lecture/lec09)
-- recording 🎥
+- [recording 🎥](https://youtu.be/pXG-c17uMds)
 
 ---
 
