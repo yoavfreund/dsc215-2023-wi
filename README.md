@@ -1,2 +1,2 @@
-# dsc90-2022-sp
-Public repository for the Spring 2022 offering of DSC 90 (History of Data Science)
+# dsc90-2023-wi
+Public repository for the Winter 2023 offering of DSC 215 (Critical Statistical and experimental design)
